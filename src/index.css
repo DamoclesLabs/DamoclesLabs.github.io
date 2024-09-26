@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa;
+  color: #333;
+  padding-top: 60px;
+  line-height: 1.6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+html, body {
+  overflow: hidden;
+}
+
+.fp-watermark {
+  display: none !important;
+}
+
+#fp-nav ul li a span, 
+.fp-slidesNav ul li a span {
+  background: #007bff;
+}
+
+.section {
+  padding-top: 80px;
+  padding-bottom: 60px;
+}
+
+.fp-tableCell {
+  padding-top: 80px;
+}
+
+#fp-nav {
+  bottom: 70px !important;
+}
+
+/* 添加一些全局样式 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #0056b3;
+}
