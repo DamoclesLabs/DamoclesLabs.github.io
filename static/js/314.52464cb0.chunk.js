@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdamocles_labs_website=self.webpackChunkdamocles_labs_website||[]).push([[314],{314:(e,s,a)=>{e.exports=a.p+"static/media/1727190862383.ccb550ed69befd4fca38.png"}}]);

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdf639dc.css",
+    "main.js": "/static/js/main.8bbfe7a0.js",
+    "static/js/314.52464cb0.chunk.js": "/static/js/314.52464cb0.chunk.js",
+    "static/js/706.2fbc2126.chunk.js": "/static/js/706.2fbc2126.chunk.js",
+    "static/js/89.720e5fb1.chunk.js": "/static/js/89.720e5fb1.chunk.js",
+    "static/js/560.4b43a67b.chunk.js": "/static/js/560.4b43a67b.chunk.js",
+    "static/js/453.319fb2e8.chunk.js": "/static/js/453.319fb2e8.chunk.js",
+    "static/media/Damocles_middle.png": "/static/media/Damocles_middle.d47d52b10a96b7e615c1.png",
+    "static/media/1727190862383.png": "/static/media/1727190862383.ccb550ed69befd4fca38.png",
+    "static/media/Damocles.png": "/static/media/Damocles.4e61c53990cb266be3e3.png",
+    "static/media/SubstanceX.png": "/static/media/SubstanceX.8b0cc762b08e50fcfb3a.png",
+    "index.html": "/index.html",
+    "main.cdf639dc.css.map": "/static/css/main.cdf639dc.css.map",
+    "main.8bbfe7a0.js.map": "/static/js/main.8bbfe7a0.js.map",
+    "453.319fb2e8.chunk.js.map": "/static/js/453.319fb2e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf639dc.css",
+    "static/js/main.8bbfe7a0.js"
+  ]
+}

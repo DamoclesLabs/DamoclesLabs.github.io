@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdamocles_labs_website=self.webpackChunkdamocles_labs_website||[]).push([[89],{89:(e,s,a)=>{e.exports=a.p+"static/media/SubstanceX.8b0cc762b08e50fcfb3a.png"}}]);
