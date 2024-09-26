@@ -116,7 +116,7 @@ function Partners() {
 
   return (
     <PartnersContainer>
-      <Title>Our Trusted Partners</Title>
+      <Title>Our Partners</Title>
       <LogoGrid>
         {partners.map((partner, index) => (
           <LogoLink key={index} href={partner.url} target="_blank" rel="noopener noreferrer">

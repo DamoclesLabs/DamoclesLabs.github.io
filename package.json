@@ -1,6 +1,7 @@
 {
   "name": "damocles-labs-website",
   "version": "0.1.0",
+  "homepage": "",
   "private": true,
   "dependencies": {
     "@fullpage/react-fullpage": "^0.1.44",
@@ -23,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages-d build"
+    "deploy" : "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
