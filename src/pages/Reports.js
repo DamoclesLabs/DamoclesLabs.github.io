@@ -228,6 +228,11 @@ const reportsData = [
     englishReport: "https://github.com/DamoclesLabs/Audit/blob/main/SubstanceX/Code%20Security%20Audit%20Report%20For%20SubstanceX.pdf",
     chineseReport: ""
   },
+  {
+    project: "OFF THE GRID ",
+    englishReport: "https://github.com/DamoclesLabs/GameFi-Analysis-Report/blob/main/OFF%20THE%20GRID/off%20the%20Grid%20Security%20analysis%20report%20.pdf",
+    chineseReport: "https://github.com/DamoclesLabs/GameFi-Analysis-Report/blob/main/OFF%20THE%20GRID/Off%20the%20grid%20%E6%B8%B8%E6%88%8F%E5%AE%89%E5%85%A8%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.pdf"
+  },
   // ... 添加其他项目数据
 ];
 
