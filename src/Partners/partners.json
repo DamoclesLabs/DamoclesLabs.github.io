@@ -13,6 +13,31 @@
       "name": "Naga",
       "logo": "SubstanceX.png",
       "url": "https://www.substancex.io/"
+    },
+    {
+      "name": "Blend",
+      "logo": "Blend.png",
+      "url": "https://www.blend.fan/"
+    },
+    {
+      "name": "HashKey Chain",
+      "logo": "HashkeyChain.png",
+      "url": "https://group.hashkey.com/"
+    },   
+    {
+      "name": "EDU Chain",
+      "logo": "opencampus.png",
+      "url": "https://educhain.xyz/"
+    },
+    {
+      "name": "edbankDao",
+      "logo": "edbankDao.png",
+      "url": "https://edbank.xyz/"
+    },    
+    {
+      "name": "ThrustPad",
+      "logo": "ThrustPad.png",
+      "url": "https://www.thrustpad.finance/"
     }
-    
+
 ]
