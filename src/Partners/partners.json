@@ -38,6 +38,11 @@
       "name": "ThrustPad",
       "logo": "ThrustPad.png",
       "url": "https://www.thrustpad.finance/"
+    },
+    {
+      "name": "Pencil Financial",
+      "logo": "PencilFinancial.png",
+      "url": "https://www.pencilfinance.io/"
     }
 
 ]

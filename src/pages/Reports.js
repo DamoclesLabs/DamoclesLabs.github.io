@@ -248,6 +248,11 @@ const reportsData = [
     englishReport: "https://github.com/DamoclesLabs/Audit/blob/main/EDBank/Code%20Security%20Audit%20Report%20For%20EDBank%20Final.pdf",
     chineseReport: ""
   },
+  {
+    project: "Pencil Financial",
+    englishReport: "https://github.com/DamoclesLabs/Audit/blob/main/PencilFinancial/PencilFinancial%20Audit%20Report%20Final.pdf",
+    chineseReport: ""
+  },
   // ... 添加其他项目数据
 ];
 
