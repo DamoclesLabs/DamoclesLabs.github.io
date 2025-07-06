@@ -101,17 +101,12 @@ function Partners() {
   const [partners, setPartners] = useState([]);
 
   useEffect(() => {
-    const loadPartners = async () => {
-      const loadedPartners = await Promise.all(
-        partnersData.map(async (partner) => {
-          const logo = await import(`../../public/Partners/${partner.logo}`);
-          return { ...partner, logo: logo.default };
-        })
-      );
-      setPartners(loadedPartners);
-    };
-
-    loadPartners();
+    // 直接使用 public 文件夹中的图片路径
+    const loadedPartners = partnersData.map((partner) => ({
+      ...partner,
+      logo: `/Partners/${partner.logo}`
+    }));
+    setPartners(loadedPartners);
   }, []);
 
   return (
